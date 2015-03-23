@@ -1,0 +1,41 @@
+h1 {background-color : white;
+  color:purple;
+  text-align:center;
+  text-decoration:underline;
+  margin:10px 150px ;
+  border-radius:20px ;
+  font-size: 3em;
+  
+}
+
+h2 {background-color:purple;
+color:white;
+  margin: 10px 100px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+body{
+  background-color:gray;
+  text-align:center;
+}
+
+p{background-color: white;
+  color: purple;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 5px Auto;
+  font-size: 1.5em;
+}
+
+Content{
+  text-decoration: underline;
+}
+p1{
+  background-color: purple;
+  color:white;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 5px auto;
+  font-size: 1.5em;
+}
